@@ -36,6 +36,8 @@ To run this project:
   jdk path must be added to envorionment variables
   Open it in an IDE
   Make sure your package name matches
+  Go to Login Class and run it
+  Username & Password = kashi
 ```
     
 ## Features
@@ -49,9 +51,15 @@ To run this project:
 
 Contributions are always welcome!
 
+Bug reports and pull requests are welcome on https://github.com/KashifKhaan/University_Management_System/issues contribute. We welcome and encourage your participation in this open source project. We welcome those of all backgrounds and abilities.
+
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+
+
+## License
+This project is Licensed under the [University Of Swabi](UOS). There's no rights reserved for this project, You are free to include it in original form or modified with or without additional modification in your own project
 
 
 ## 🔗 Links
