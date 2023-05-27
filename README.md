@@ -53,7 +53,7 @@ Contributions are always welcome!
 
 Bug reports and pull requests are welcome on https://github.com/KashifKhaan/University_Management_System/issues contribute. We welcome and encourage your participation in this open source project. We welcome those of all backgrounds and abilities.
 
-See `contributing.md` for ways to get started.
+See [`contributing.md`](https://github.com/KashifKhaan/University_Management_System/blob/master/CONTRIBUTING.md) for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
