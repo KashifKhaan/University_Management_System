@@ -3,28 +3,14 @@
 
 This repository houses a comprehensive University Management System developed in Java with a graphical user interface (GUI). It features a robust login system and includes modules such as student exams, fee management, program details, and admission forms. For faculty members, the system offers an application form module and a workload management system. This repository provides an efficient and user-friendly solution for managing various aspects of university administration.
 
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Login<img width="332" alt="login" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/e05d8f99-ddf7-4d51-bb48-81183346327f"> | Home Page<img width="360" alt="Home Menu" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/a3b967f1-eec2-44d2-8d36-702dcd26bdf1"> | Student Menu<img width="298" alt="Std Menu" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/a534bdeb-b08e-4f90-94ce-3ffe42dfc5c6"> | Admission Form<img width="472" alt="Admission Form" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/c695f70f-199c-4a77-881b-88d1d42c3f07"> | Finance System<img width="281" alt="Finance System" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/688ef716-c34b-4fc8-8365-5fae58f479ee"> |
+| Exam System<img width="381" alt="Exam System" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/055dc486-26c0-47a3-988b-616b66e9892f"> | Program Detail<img width="478" alt="Program Detail" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/4d1a623c-e70f-4dd3-94e5-acdcdbddc563"> | Faculty Home Page<img width="273" alt="Faculty Menu" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/e029b279-738d-4891-abac-573d38e0cc82"> | Application Form<img width="463" alt="Application Form" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/aad5b2b3-b8bd-4cc1-b2a6-9d34a40b0965"> | Academic Workload<img width="340" alt="Academic Workload" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/0f7c5aa4-f6c7-43e8-9be2-4714c992e068"> |
 
-## Screenshots
-### Login
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/login.png?raw=true)
-### Home Page
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Home%20Menu.png?raw=true)
-### Student Menu
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Std%20Menu.png?raw=true)
-### Admission Form
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Admission%20Form.png?raw=true)
-### Finance System
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Finance%20System.png?raw=true)
-### Exam System
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Exam%20System.png?raw=true)
-### Program Detail
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Program%20Detail.png?raw=true)
-### Faculty Home Page
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Faculty%20Menu.png?raw=true)
-### Application Fomr
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Application%20Form.png?raw=true)
-### Academic Workload
-![App Screenshot](https://github.com/KashifKhaan/University_Management_System/blob/master/Images/Academic%20Workload.png?raw=true)
+
+
+
 
 
 ## Installation
